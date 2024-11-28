@@ -1,3 +1,10 @@
 from flask_mysqldb import MySQL
 
-# TODO: create models
+class Student():
+    pass 
+
+class Program():
+    pass 
+
+class College():
+    pass
